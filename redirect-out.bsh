@@ -1,0 +1,4 @@
+#redirect output to a file is simply
+ls -l > mytestfile.txt
+#redirect output to a file but also keep displaying on console use
+ls -al | tee anotestfile.txt
