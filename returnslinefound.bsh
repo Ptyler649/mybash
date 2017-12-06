@@ -1,0 +1,5 @@
+# returns the line found example
+# note the / is the in this case the character being searched for
+grep '/' searchfile | tr ':' ' '
+
+

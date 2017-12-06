@@ -1,0 +1,3 @@
+latest=$(ls -tr | tail -1)
+echo $latest
+

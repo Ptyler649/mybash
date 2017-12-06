@@ -1,0 +1,4 @@
+latest=$(ls -tr | tail -1)
+myconcatvar="this is just a test "$latest" and no more"
+echo $myconcatvar
+#eval <var> - to execute a command

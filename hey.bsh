@@ -1,0 +1,3 @@
+echo hey
+go="/bin/bash ho.bsh"
+eval $go
