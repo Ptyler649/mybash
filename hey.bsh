@@ -1,3 +1,4 @@
+#runs another bash file from one bash file
 echo hey
 go="/bin/bash ho.bsh"
 eval $go
